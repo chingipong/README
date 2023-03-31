@@ -1,6 +1,6 @@
 # 💫 About Me:
-Web developer with a passion for crafting elegant and functional web appliations using HTML, CSS, and JavaScript.<br> 
-
+Web developer with a passion for crafting elegant and functional web appliations using HTML, CSS, and JavaScript .<br> 
+let's code~
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gauhar.pvtt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AmaanGauhar) 
